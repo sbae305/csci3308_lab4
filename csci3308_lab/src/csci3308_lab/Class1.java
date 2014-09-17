@@ -5,7 +5,7 @@ public class Class1 {
 		System.out.println("Hello World!");
 		System.out.println("How are you?");
 		
-		System.out.println("adding this line because I messed up the first time")
+		System.out.println("adding this line because I messed up the first time"); // i edit this twice
 	}
 
 }
